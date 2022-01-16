@@ -1,0 +1,16 @@
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\bin\Debug\net5.0\Lærer.exe
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\bin\Debug\net5.0\Lærer.deps.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\bin\Debug\net5.0\Lærer.runtimeconfig.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\bin\Debug\net5.0\Lærer.runtimeconfig.dev.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\bin\Debug\net5.0\Lærer.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\bin\Debug\net5.0\ref\Lærer.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\bin\Debug\net5.0\Lærer.pdb
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\obj\Debug\net5.0\Lærer.csproj.AssemblyReference.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\obj\Debug\net5.0\Lærer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\obj\Debug\net5.0\Lærer.AssemblyInfoInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\obj\Debug\net5.0\Lærer.AssemblyInfo.cs
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\obj\Debug\net5.0\Lærer.csproj.CoreCompileInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\obj\Debug\net5.0\Lærer.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\obj\Debug\net5.0\ref\Lærer.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\obj\Debug\net5.0\Lærer.pdb
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Lærer\obj\Debug\net5.0\Lærer.genruntimeconfig.cache
